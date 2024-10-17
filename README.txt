@@ -34,7 +34,7 @@ This program is Open Source, and you are free to download, modify, and distribut
 
 โปรแกรมนี้เป็น Open Source คุณสามารถดาวน์โหลด แก้ไข และแจกจ่ายได้อย่างอิสระภายใต้เงื่อนไขการอนุญาตแบบโอเพนซอร์ส
 
-© Copyright นายบุญรักษา วานิชยานนท์. สงวนลิขสิทธิ์.
+© Copyright นายบุญรักษา วานิชยานนท์. 
 
 中文 (Chinese):
 用于生成 EMS 和挂号邮件号码的程序
